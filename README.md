@@ -1,7 +1,7 @@
 # task_restaurante
 
 ## Arquitetura da solução
-![Diagrama de classes](src\assets\diagrama_classes_restaurante.drawio.png)
+<img src="src/assets/diagrama_classes_restaurante.drawio.png">
 
 O diagrama de classes contém as seguintes entidades:
 
